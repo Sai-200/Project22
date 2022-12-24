@@ -38,5 +38,5 @@ This is a web based application developed for organic food and health related ba
 
 
 ## Tech Stack 
--CSS
--HTML
+.CSS
+.HTML
