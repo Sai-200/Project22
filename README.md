@@ -34,3 +34,9 @@ This is a web based application developed for organic food and health related ba
 ![Screenshot (48)](https://user-images.githubusercontent.com/108931081/209435944-610a0657-5967-4465-af27-f09315157f71.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/108931081/209435958-39e5976f-c30b-4ca7-89e8-4e51e5312239.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/108931081/209435963-d7e54c3b-71ba-48e6-a908-269abe9d89e5.png)
+
+
+
+## Tech Stack 
+-CSS
+-HTML
