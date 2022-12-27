@@ -4,7 +4,7 @@ This is a web based application developed for organic food and health related ba
 
 
 **Project Link** -https://brave-sky-0a228a500.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** -https://youtu.be/4l4ncxWCfZo 
 
 ## Azure technologies used for Project
       - Static web apps
