@@ -1,4 +1,4 @@
-#  ![image](https://user-images.githubusercontent.com/108931081/209616015-39a0ee94-2a9b-4b02-b493-761f4a7bd132.png)
+#  
  Organic Store 
 This is a web based application developed for organic food and health related based website in india.
 ### This web based Organic Store application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
